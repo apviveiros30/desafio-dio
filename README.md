@@ -32,7 +32,7 @@ Professor, eu tentei de varias forma, capturar mas realmente não consegui, pesq
 
 Meu sistema operacional é Windows 11 Pro, maquina virtual Hyper-V, eu encontrei no web que poderia ser por causa da maquina virtual Hyper-V
 
-![Desafio](./print.png "Imagem do desafio")
+![Desafio](./print.jpg "Imagem do desafio")
 
 
 ## Informação
