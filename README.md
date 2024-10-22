@@ -1,21 +1,20 @@
-# Phishing para captura de senhas do Facebook
+# Phishing para captura de senhas do Instagram
 
 ### Ferramentas
 
 - Kali Linux
-- setoolkit
+- Zphisher
 
 ### Configurando o Phishing no Kali Linux
 
 - Acesso root: ``` sudo su ```
-- Iniciando o setoolkit: ``` setoolkit ```
+- Iniciando o Zphisher: ``` bash zphisher.sh ```
 - Tipo de ataque: ``` Social-Engineering Attacks ```
-- Vetor de ataque: ``` Web Site Attack Vectors ```
-- Método de ataque: ```Credential Harvester Attack Method ```
-- Método de ataque: ``` Site Cloner ```
-- Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+- Vetor de ataque: ```02 Instagram ```
+- Método de ataque: ```01 Tradicional login page ```
+- Método de ataque: ```01 localhost ```
+- Obtendo o endereço da máquina: ``` Do You Want A Custom Port (N) ```
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./Desafio_Lucas_Santos "Optional title")
