@@ -18,4 +18,4 @@
 - Usando ip no navegador
 ### Resutados
 
-![Alt text](./passwd.png "file:///home/renirton/Pictures/Screenshot_2024-12-11_10_36_32.png")
+![Alt text](file:///home/renirton/Pictures/Screenshot_2024-12-11_10_36_32.png)
