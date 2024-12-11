@@ -21,4 +21,4 @@
 
 ### Resutados
 
-! [Texto alternativo](https://repository-images.githubusercontent.com/901887775/d266b7a5-828e-47be-ac28-e86f02df9fa9)
+! [Texto alternativo](./https://repository-images.githubusercontent.com/901887775/d266b7a5-828e-47be-ac28-e86f02df9fa9)
