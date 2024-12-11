@@ -15,7 +15,7 @@
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
-
+- Usando ip no navegador
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./passwd.png "file:///home/renirton/Pictures/Screenshot_2024-12-11_10_36_32.png")
