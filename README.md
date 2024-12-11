@@ -16,6 +16,9 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 - Usando ip no navegador
+
+
+
 ### Resutados
 
-<img src="file:///home/renirton/Pictures/Screenshot_2024-12-11_10_36_32.png">
+! [Texto alternativo](file:///home/renirton/Desktop/Screenshot_2024-12-11_10_36_32.png)
