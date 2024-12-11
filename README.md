@@ -21,4 +21,4 @@
 
 ### Resutados
 
-! [Texto alternativo](file:///home/renirton/Desktop/Screenshot_2024-12-11_10_36_32.png)
+! [Texto alternativo](./file:///home/renirton/Desktop/Screenshot_2024-12-11_10_36_32.png)
