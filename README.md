@@ -19,3 +19,9 @@
 ### Resutados
 
 ![Alt text](./passwd.png "Optional title")
+
+#  Alteração
+
+- A opção 'Site Cloner' estava apresentando alguns erros, portando foi utilizado a opção 'Web Templates', com o template do Google
+
+ ![Alt text](./phishing-google-template.png " Optionaltitle")
